@@ -1,8 +1,9 @@
 Lab05
 =====
-Elliott Plack
-03 OCT 2013
-COSC 501 @ Towson University
+- **Author**: Elliott Plack
+- **Date**: 03 OCT 2013
+- **Class**: COSC 501 @ Towson University
+
 ## Program description
 Two simple math functions in this program. The first asks the user for 10 inputs, and then return the sum of them. The second function that asks for an integer and then computes the sum of 0 + all integers up to the input.
 ## Algorithm
